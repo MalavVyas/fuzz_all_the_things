@@ -1,4 +1,4 @@
 git clone https://github.com/openssl/openssl.git
 cd openssl
 ./Configure
-make -j 20
+make install -j 20
